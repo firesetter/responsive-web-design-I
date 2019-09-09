@@ -181,10 +181,6 @@ header nav a:hover {
   text-decoration: underline;
 }
 
-header nav a:first-child {
-  margin-left: 0;
-}
-
 header .logo {
   margin-top: 25px;
 }
@@ -220,7 +216,6 @@ header .logo {
 }
 
 .cta img {
-  display: flex;
   margin-top: 69px;
 }
 
